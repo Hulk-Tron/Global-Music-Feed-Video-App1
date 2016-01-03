@@ -1,0 +1,788 @@
+
+.custom-list p{
+  margin: 0;
+  color: black;
+}
+.search-bar .list {
+  margin-top: 15px;
+}
+.list { 
+margin-top: -1px;
+}
+.list h2 {
+  margin-top: -240px;
+ text-align: center;
+  color: #fff;
+}
+.list p {
+text-align: center;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 160px;
+}
+
+.custom-list a {
+background-image: url(''); 
+background-color: #F7F7F7;
+  min-height: 90px;
+  padding-left: 140px;
+  position: relative;
+border: 1px solid #ddd;
+}
+.custom-list p {
+
+  position: relative;
+  border: none;
+}
+.custom-list a p {
+  color: black;
+  font-weight: 400;
+  margin-left: 100px;
+
+}
+.custom-list h3 {
+margin-left: 32px;
+
+}
+.custom-list a p {
+  font-size: 13px;
+  margin: 0;
+  margin-left: -102px;
+  line-height: 17px;
+}
+.custom-list a img {
+  max-width: 110px !important;
+  max-height: 70px !important;
+}
+.pull-right {
+  float: right;
+}
+
+.title-categories {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  font-size: 16px;
+}
+.title-categories i {
+  display: none;
+}
+.title-categories .ion-ios-film-outline {
+  position: relative;
+  top: 1px;
+}
+.img-item {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 100%;
+  height: 100%;
+  max-width: 120px;
+  max-height: 70px;
+}
+.img-item .thumnail-video {
+  position: relative;
+  height: 70px;
+  text-align: center;
+}
+.list { 
+border: 0.5px solid #ddd;
+}
+.list img {
+ border: 1px solid #ddd; 
+}
+.img-item .thumnail-video .time-video {
+  position: absolute;
+  right: -24px;
+  bottom: 5px;
+
+  background: rgba(0, 0, 0, 0.82);
+  padding: 5px;
+  font-size: 12px;
+  color: #fff;
+  line-height: 10px;
+  border-radius: 1px;
+}
+.img-item .thumnail-video .list-video {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.69);
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 15px;
+
+}
+.img-item .thumnail-video .list-video i {
+  margin-top: 5px;
+  font-size: 22px;
+}
+.class-video {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.info-video .name {
+  font-size: 17px;
+}
+.info-video .name i {
+  font-size: 20px;
+}
+.padding-5 {
+  padding: 5px;
+}
+.header-left {
+  height: 140px;
+  color: #fff;
+}
+.header-left i {
+  font-size: 70px;
+}
+.font-lg {
+  font-size: 18px;
+}
+
+
+.menu-left {
+  background:url('http://www.millennialinflux.com/wp-content/uploads/2013/10/266779.jpg');
+}
+.menu-left a {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+.menu-left a.activated {
+  background-color: #222;
+}
+.menu-left a.active {
+  background-color: #222;
+}
+.menu-left a i {
+  font-size: 26px !important;
+}
+.menu-left a:nth-child(0) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(1) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(2) i {
+  color: #11c1f3;
+}
+.menu-left a:nth-child(3) i {
+  color: #33cd5f;
+}
+.menu-left a:nth-child(4) i {
+  color: #ffc900;
+}
+.menu-left a:nth-child(5) i {
+  color: #ef473a;
+}
+.menu-left a:nth-child(6) i {
+  color: #886aea;
+}
+.menu-left a:nth-child(7) i {
+  color: #11c1f3;
+}
+.list-ep {
+  margin-top: 10px;
+}
+
+.list-ep li {
+  float: left;
+  padding: 5px 20px;
+  border: 1px solid #ddd;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  min-width: 60px;
+  text-align: center;
+  color: #fff;
+}
+.videoWrapper body {
+
+  margin: 0;
+}
+.videoWrapper body .video {
+
+  margin: 0;
+}
+
+.ion-cover-item.activated,
+.ion-cover-item {
+    border: 1px solid #111;
+}
+
+/* AIRBNB */
+.airbnb-style.ion-cover-item {
+    justify-content: center;
+    text-align: center;
+    height: 340px;
+    border: 1px solid red;
+}
+
+.airbnb-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+
+.airbnb-style.ion-cover-item p {
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+/* ARTISTS STYLE */
+.music-style.ion-cover-item {
+    text-align: center;
+}
+
+.music-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+.custom-lister p{
+  margin: 0;
+  color: black;
+}
+.search-bar .lister {
+  margin-top: 15px;
+}
+.lister { 
+margin-top: -1px;
+}
+.lister h2 {
+  margin-top: -240px;
+ text-align: center;
+  color: #fff;
+}
+.lister p {
+text-align: center;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 160px;
+}
+.custom-lister a {
+
+  min-height: 90px;
+  padding-left: 140px;
+  position: relative;
+border: none;
+}
+.custom-lister p {
+
+  position: relative;
+  border: none;
+}
+.custom-lister a p {
+  color: black;
+  font-weight: 400;
+  margin-left: 100px;
+
+}
+.custom-lister h3 {
+margin-left: 32px;
+
+}
+.custom-lister a p {
+  font-size: 13px;
+  margin: 0;
+  margin-left: -102px;
+  line-height: 17px;
+}
+.custom-lister a img {
+  max-width: 120px !important;
+  max-height: 70px !important;
+}
+.pull-right {
+  float: right;
+}
+
+.title-categories {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  font-size: 16px;
+}
+.title-categories i {
+  display: none;
+}
+.title-categories .ion-ios-film-outline {
+  position: relative;
+  top: 1px;
+}
+.img-item {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 100%;
+  height: 100%;
+  max-width: 120px;
+  max-height: 70px;
+}
+.img-item .thumnail-video {
+  position: relative;
+  height: 70px;
+  text-align: center;
+}
+.lister { 
+border: none;
+}
+.lister img {
+ border:none; 
+}
+.img-item .thumnail-video .time-video {
+  position: absolute;
+  right: -24px;
+  bottom: 5px;
+
+  background: rgba(0, 0, 0, 0.82);
+  padding: 5px;
+  font-size: 12px;
+  color: #fff;
+  line-height: 10px;
+  border-radius: 1px;
+}
+.img-item .thumnail-video .lister-video {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.69);
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 15px;
+
+}
+.img-item .thumnail-video .lister-video i {
+  margin-top: 5px;
+  font-size: 22px;
+}
+.class-video {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.info-video .name {
+  font-size: 17px;
+}
+.info-video .name i {
+  font-size: 20px;
+}
+.padding-5 {
+  padding: 5px;
+}
+.header-left {
+  height: 140px;
+  color: #fff;
+}
+.header-left i {
+  font-size: 70px;
+}
+.font-lg {
+  font-size: 18px;
+}
+
+
+.menu-left {
+  background:url('http://www.millennialinflux.com/wp-content/uploads/2013/10/266779.jpg');
+}
+.menu-left a {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+.menu-left a.activated {
+  background-color: #222;
+}
+.menu-left a.active {
+  background-color: #222;
+}
+.menu-left a i {
+  font-size: 26px !important;
+}
+.menu-left a:nth-child(0) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(1) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(2) i {
+  color: #11c1f3;
+}
+.menu-left a:nth-child(3) i {
+  color: #33cd5f;
+}
+.menu-left a:nth-child(4) i {
+  color: #ffc900;
+}
+.menu-left a:nth-child(5) i {
+  color: #ef473a;
+}
+.menu-left a:nth-child(6) i {
+  color: #886aea;
+}
+.menu-left a:nth-child(7) i {
+  color: #11c1f3;
+}
+.lister-ep {
+  margin-top: 10px;
+}
+
+.lister-ep li {
+  float: left;
+  padding: 5px 20px;
+  border: 1px solid #ddd;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  min-width: 60px;
+  text-align: center;
+  color: #fff;
+}
+.videoWrapper body {
+
+  margin: 0;
+}
+.videoWrapper body .video {
+
+  margin: 0;
+}
+
+.ion-cover-item.activated,
+.ion-cover-item {
+    border: 1px solid #111;
+}
+
+/* AIRBNB */
+.airbnb-style.ion-cover-item {
+    justify-content: center;
+    text-align: center;
+    height: 340px;
+    border: 1px solid red;
+}
+
+.airbnb-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+
+.airbnb-style.ion-cover-item p {
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+/* ARTISTS STYLE */
+.music-style.ion-cover-item {
+    text-align: center;
+}
+
+.music-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+
+   .custom-list p{
+  margin: 0;
+  color: black;
+}
+.search-bar .list {
+  margin-top: 15px;
+}
+.menu-list { 
+margin-top: -1px;
+}
+.menu-list h2 {
+  margin-top: -240px;
+ text-align: center;
+  color: #fff;
+}
+.menu-list p {
+text-align: center;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 160px;
+}
+.custom-list a {
+
+  min-height: 90px;
+  padding-left: 140px;
+  position: relative;
+border: 1px solid #ddd;
+}
+.custom-list p {
+
+  position: relative;
+  border: none;
+}
+.custom-list a p {
+  color: #464646;
+  font-weight: 400;
+  margin-left: 30px;
+
+}
+.custom-list h3 {
+    color: #464646;
+margin-left: 19px;
+
+}
+.custom-list a p {
+  font-size: 13px;
+  margin: 0;
+  margin-left: -28px;
+  line-height: 17px;
+  color: ;
+}
+.custom-list a img {
+  max-width: 130px !important;
+  max-height: 70px !important;
+}
+.pull-right {
+  float: right;
+}
+
+.title-categories {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  font-size: 16px;
+}
+.title-categories i {
+  display: none;
+}
+.title-categories .ion-ios-film-outline {
+  position: relative;
+  top: 1px;
+}
+.img-item {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 100%;
+  height: 100%;
+  max-width: 120px;
+  max-height: 70px;
+}
+.img-item .thumnail-video {
+  position: relative;
+  height: 70px;
+  text-align: center;
+}
+.menu-list { 
+border: none;
+}
+.menu-list img {
+ border: none; 
+}
+.img-item .thumnail-video .time-video {
+  position: absolute;
+  right: -7px;
+  bottom: 5px;
+
+  background: rgba(0, 0, 0, 0.82);
+  padding: 5px;
+  font-size: 12px;
+  color: #fff;
+  line-height: 10px;
+  border-radius: 1px;
+}
+.img-item .thumnail-video .list-video {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.69);
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 15px;
+
+}
+.img-item .thumnail-video .list-video i {
+  margin-top: 5px;
+  font-size: 22px;
+}
+.class-video {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.info-video .name {
+  font-size: 17px;
+}
+.info-video .name i {
+  font-size: 20px;
+}
+.padding-5 {
+  padding: 5px;
+}
+.header-left {
+  height: 140px;
+  color: #fff;
+}
+.header-left i {
+  font-size: 70px;
+}
+.font-lg {
+  font-size: 18px;
+}
+
+
+.menu-left {
+  background:url('http://www.millennialinflux.com/wp-content/uploads/2013/10/266779.jpg');
+}
+.menu-left a {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+.menu-left a.activated {
+  background-color: #222;
+}
+.menu-left a.active {
+  background-color: #222;
+}
+.menu-left a i {
+  font-size: 26px !important;
+}
+.menu-left a:nth-child(0) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(1) i {
+  color: #387ef5;
+}
+.menu-left a:nth-child(2) i {
+  color: #11c1f3;
+}
+.menu-left a:nth-child(3) i {
+  color: #33cd5f;
+}
+.menu-left a:nth-child(4) i {
+  color: #ffc900;
+}
+.menu-left a:nth-child(5) i {
+  color: #ef473a;
+}
+.menu-left a:nth-child(6) i {
+  color: #886aea;
+}
+.menu-left a:nth-child(7) i {
+  color: #11c1f3;
+}
+.list-ep {
+  margin-top: 10px;
+}
+
+.list-ep li {
+  float: left;
+  padding: 5px 20px;
+  border: 1px solid #ddd;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  min-width: 60px;
+  text-align: center;
+  color: #fff;
+}
+.videoWrapper body {
+
+  margin: 0;
+}
+.videoWrapper body .video {
+  margin: 0;
+}
+
+.ion-cover-item.activated,
+.ion-cover-item {
+    border: 1px solid #111;
+}
+
+/* AIRBNB */
+.airbnb-style.ion-cover-item {
+    justify-content: center;
+    text-align: center;
+    height: 340px;
+    border: 1px solid red;
+}
+
+.airbnb-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+
+.airbnb-style.ion-cover-item p {
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+/* ARTISTS STYLE */
+.music-style.ion-cover-item {
+    text-align: center;
+}
+
+.music-style.ion-cover-item h2 {
+    font-size: 30px;
+}
+
+
+

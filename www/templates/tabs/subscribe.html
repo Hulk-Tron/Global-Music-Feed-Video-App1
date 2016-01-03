@@ -1,0 +1,25 @@
+<ion-view view-title="Genres">
+  <ion-content>
+  <div class="genre">
+    <div class="lister">
+      <ion-cover-item ng-repeat="item in data.videos" class="" cover="place.cover" ng-click="viewVideo(v)">
+      <a ng-href="#/video/">
+        <img class="full-image"  height="265" ng-src="{{item.img}}">
+        <h2>{{ item.genre }}</h2>
+        <p>{{ item.name }}</p>
+        </a>
+      </ion-cover-item>
+    </div>
+    </div>
+  </ion-content>
+</ion-view>
+
+<style type="text/css">
+.lister a  {
+color: transparent;
+  }
+  .lister h2, p {
+    color: white;
+  }
+
+</style>

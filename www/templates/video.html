@@ -1,0 +1,27 @@
+<!-- No color in ion tabs if you want to put color you do tabs-positive -->
+<ion-tabs class="tabs-icon-top tabs-item-hide">
+
+    <ion-tab title="Home" icon="mdi mdi-home" ui-sref="app.video.feature">
+        <ion-nav-view name="home-tab"></ion-nav-view>
+    </ion-tab>
+
+    <ion-tab title="Genres" icon="mdi mdi-album" ui-sref="app.video.subscribe">
+        <ion-nav-view name="subscribe-tab"></ion-nav-view>
+    </ion-tab>
+    <ion-tab title="Search" icon="mdi mdi-magnify" ui-sref="app.video.search">
+        <ion-nav-view name="search-tab"></ion-nav-view>
+    </ion-tab>
+    <ion-tab title="Genres" icon="mdi mdi-magnify" ui-sref="app.video.genres">
+        <ion-nav-view name="genres-tab"></ion-nav-view>
+    </ion-tab>
+
+
+</ion-tabs>
+
+<style type="text/css">
+ .icon  {
+        color:#CC9933;
+    }
+
+
+</style>
